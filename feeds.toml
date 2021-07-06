@@ -1,7 +1,0 @@
-[digitec_tagesangebot]
-title = "Digitec - Tagesangebot"
-url = "https://www.digitec.ch//de/liveshopping/81"
-entrySelector = "bigLayout_mainContainer__2xx5O"
-titleSelector = "productTitle_productName__39t_3"
-linkSelector = "a"
-
